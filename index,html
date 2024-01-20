@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+	<script src="index.js"></script>
+</head>
+<body>
+    <ul>
+        <h2>TV</h2>
+
+        <ul class="dropdown">
+           
+			<li>
+			
+			 <button onclick="a()">TVU (TV CHILE)</button>
+			 
+			<!-- <iframe height="200" width="300" id="iframe"></iframe> -->
+			<iframe width="200" height="100" frameborder="0" id="iframe" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+			
+			</li>
+			
+			
+			<li>
+			
+			 <button onclick="a()">TVU (TV CHILE)</button>
+			 
+			<!-- <iframe height="200" width="300" id="iframe"></iframe> -->
+			<iframe width="200" height="100" frameborder="0" id="iframe" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+			
+			</li>
+						
+			
+        </ul>
+        
+    </ul>
+</body>
+</html>
+
+ 
