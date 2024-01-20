@@ -15,8 +15,16 @@
            
 			<li>
 			
-			 <button onclick="a()">TVU (TV CHILE)</button><br>
-			 <button onclick="b()">UCV (TV CHILE)</button><br>
+			 <script language="javascript" type="text/javascript">
+			 function windowClose() {
+			 window.open('','_parent','');
+			 window.close();
+			 }
+			 </script>
+			
+			 <input type="button" value="Salir de la app" onclick="windowClose();"><br><br>			
+			 <button onclick="a()">TVU (TV CHILE)</button><br><br>
+			 <button onclick="b()">UCV (TV CHILE)</button><br><br>
 			 
 			<!-- <iframe height="300" width="300" id="iframe"></iframe> -->
 			<iframe width="300" height="300" frameborder="0" id="iframe" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
@@ -28,6 +36,9 @@
     </ul>
 </body>
 </html>
+
+
+ 
 
 
  
