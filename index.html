@@ -9,22 +9,15 @@
 </head>
 <body>
     <ul>
-        <h2>TV</h2>
+      
 
         <ul class="dropdown">
            
 			<li>
-			
-			 <script language="javascript" type="text/javascript">
-			 function windowClose() {
-			 window.open('','_parent','');
-			 window.close();
-			 }
-			 </script>
-			
-			 <input type="button" value="Salir de la app" onclick="windowClose();"><br><br>			
-			 <button onclick="a()">TVU (TV CHILE)</button><br><br>
-			 <button onclick="b()">UCV (TV CHILE)</button><br><br>
+			<h2>TV</h2>
+            <button onclick='this.parentNode.parentNode.remove(); return false;'>1)APAGAR LA TV </button><br><br>	
+			<button onclick="a()">TVU (TV CHILE)</button><br><br>
+			<button onclick="b()">UCV (TV CHILE)</button><br><br>
 			 
 			<!-- <iframe height="300" width="300" id="iframe"></iframe> -->
 			<iframe width="300" height="300" frameborder="0" id="iframe" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
@@ -37,6 +30,8 @@
 </body>
 </html>
 
+
+ 
 
  
 
