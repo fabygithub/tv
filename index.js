@@ -56,6 +56,15 @@ function f(){
 }
 
 
+function g(){
+	 window.open("https://iblups.com/e_tvperuHD", "iframe");
+}
+
+function h(){
+	 window.open("https://rudo.video/live/latina", "iframe");
+}
+
+
 
 
 
@@ -69,6 +78,9 @@ https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&amp;loop=fals
 */
 
  
+
+
+
 
 
 
