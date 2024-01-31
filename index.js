@@ -72,6 +72,14 @@ function j(){
 	 window.open("https://player-cdn.logicideas.media/embed/LI29a62fa1/", "iframe");
 }
 
+function k(){
+	 window.open("https://cdn.jwplayer.com/players/0qRytEJD-bL2g5Vmx.html", "iframe");
+}
+
+
+function l(){
+	 window.open("https://www.desdepylabs.com/External/trecetv", "iframe");
+}
 
 
 
