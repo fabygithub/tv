@@ -64,6 +64,13 @@ function h(){
 	 window.open("https://rudo.video/live/latina", "iframe");
 }
 
+function i(){
+	 window.open("https://players.cdn.enetres.net/live/C99D9A0676F3401589C768D47D31605C021", "iframe");
+}
+
+function j(){
+	 window.open("https://player-cdn.logicideas.media/embed/LI29a62fa1/", "iframe");
+}
 
 
 
