@@ -81,6 +81,11 @@ function l(){
 	 window.open("https://www.desdepylabs.com/External/trecetv", "iframe");
 }
 
+function m(){
+	 window.open("https://cds-frontend.vera.com.uy/api-compartir/compartir?public_id=2sgsm&courier=tvciudad&autenticacion_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjE2OC4xOTYuMjAzLjEyMiIsImV4cCI6MTcwNjk4NzY5NSwiaWF0IjoxNzA2OTAxMjk1fQ.J-4IPxmNNP-4123FZAqPrD7fjVZb5r52GORgPLV_q58", "iframe");
+}
+
+
 
 
 /*
