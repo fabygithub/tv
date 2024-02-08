@@ -90,6 +90,10 @@ function n(){
 	 window.open(" https://livestream.com/accounts/27456795/events/10633798/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false", "iframe");
 }
 
+function a2(){
+	 window.open("https://janus-tv.senado.cl/embed.php#1707421999", "iframe");
+}
+
 /*
 https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&amp;loop=false&amp;autoplay=true&amp;volume=0&amp;player=5e5597b9171de20f8f30667a&amp;access_token=GM81JL9uaIX2sgPLeo6bdHzlw4oEH4gBsSGbBUNeGJC8gqUrccji3Dd77gNZKsCMjYh4GQKnPg7&amp;mse=true&amp;ads[map]=&amp;custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fhome%2F&amp;custom.kv=seccion%253Dotros%2526nivel%253Dhome%2526nota%253D%2526id_nota%253D%2526tipo%253Dotro%2526sev_companion%253Dsev_companion&amp;custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F
 */
