@@ -94,6 +94,10 @@ function a2(){
 	 window.open("https://janus-tv.senado.cl/embed.php#1707421999", "iframe");
 }
 
+function a3(){
+	 window.open("https://assets.scrippsdigital.com/courttv/video/player.html?host=www.courttv.com&title=Court%2520TV%2520Live%2520-%2520Web&autoplay=true&muted=true&video=https%3A%2F%2Fcontent.uplynk.com%2Fchannel%2F6c0bd0f94b1d4526a98676e9699a10ef.m3u8&poster=https://assets.scrippsdigital.com/cms/images/livestream/COURT_Livestream.jpg&live=1&purl=/title/court-tv-live-stream-web&story=0&s=COURT&content-category=Court%20TV&episode-name=Watch%20Court%20TV%20Live%20Stream%20Trials&channel=courttv_main", "iframe");
+}
+
 /*
 https://mdstrm.com/live-stream/53d2c1a32640614e62a0e000?jsapi=true&amp;loop=false&amp;autoplay=true&amp;volume=0&amp;player=5e5597b9171de20f8f30667a&amp;access_token=GM81JL9uaIX2sgPLeo6bdHzlw4oEH4gBsSGbBUNeGJC8gqUrccji3Dd77gNZKsCMjYh4GQKnPg7&amp;mse=true&amp;ads[map]=&amp;custom.dfp=%2Fmega.cl%2Fsenal-en-vivo%2Fhome%2F&amp;custom.kv=seccion%253Dotros%2526nivel%253Dhome%2526nota%253D%2526id_nota%253D%2526tipo%253Dotro%2526sev_companion%253Dsev_companion&amp;custom.desc_url=https%3A%2F%2Fwww.mega.cl%2Fsenal-en-vivo%2F
 */
