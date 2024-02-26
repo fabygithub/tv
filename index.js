@@ -110,6 +110,11 @@ function a6(){
 	 window.open("https://rudo.video/live/uchiletv", "iframe");
 }
 
+function a7(){
+	 window.open("https://abcnews.go.com/video/embed?id=abc_live11", "iframe");
+}
+
+
 
 
 /*
