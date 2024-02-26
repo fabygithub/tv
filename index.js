@@ -106,6 +106,10 @@ function a5(){
 	 window.open("https://teletraktv.janus.cl/player2/player_teletrak.html", "iframe");
 }
 
+function a6(){
+	 window.open("https://rudo.video/live/uchiletv", "iframe");
+}
+
 
 
 /*
