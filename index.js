@@ -120,6 +120,11 @@ function a8(){
 }
 
 
+function a9(){
+	 window.open("https://mdstrm.com/live-stream/6287fda8ea3b8b397d1ca2ed", "iframe");
+}
+
+
 		      
 
 /*
