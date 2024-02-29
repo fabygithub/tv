@@ -110,6 +110,9 @@ function a6(){
 	 window.open("https://rudo.video/live/uchiletv", "iframe");
 }
 
+function a7(){
+	 window.open("https://rudo.video/live/bbtv?autostart=1&volume=0&streamingLabel=home&tag=eyJwcmUiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvYWRzP2l1PS8xMDk4Mzg1L2Jpb2Jpb3R2L2FkX3ZpZGVvJnRmY2Q9MCZucGE9MCZzej02NDB4NDgwJmN1c3RfcGFyYW1zPXRpcG8lM0Rob21lLWJidHYlMjZjYXRlZ29yeS1wcmltYXJ5JTNEcG9ydGFkYS1iYnR2JmdkZnBfcmVxPTEmb3V0cHV0PXZhc3QmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZlbnY9dnAmaW1wbD1zJmNvcnJlbGF0b3I9JnZwbXV0ZT0wJnZwYT1jbGljayZ2cG9zPXByZXJvbGwiLCJwb3N0IjowLCJtaWQiOnsidGFnIjowfSwib3ZlciI6eyJ0YWciOjB9fQ==", "iframe");
+}
 
 
 /*
