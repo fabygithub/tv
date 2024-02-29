@@ -124,7 +124,7 @@ function a9(){
 	 window.open("https://mdstrm.com/live-stream/6287fda8ea3b8b397d1ca2ed", "iframe");
 }
 
-function 10(){
+function a10(){
 	 window.open("http://mdstrm.com/live-stream/57b4dbf5dbbfc8f16bb63ce1", "iframe");
 }
 
